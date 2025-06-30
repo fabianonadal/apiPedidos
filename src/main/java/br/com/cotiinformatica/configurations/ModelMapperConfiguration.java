@@ -12,6 +12,7 @@ import br.com.cotiinformatica.domain.enums.StatusPedido;
 
 @Configuration
 public class ModelMapperConfiguration {
+	
 	@Bean
 	ModelMapper modelMapper() {
 		
